@@ -1,16 +1,27 @@
-# patterns_codelab
+# F_List_Object_model_api
 
+In this App we display data from the Photo Api.
+this Api Structure based on First List and include muliple objects. 5000 objects in this api.
+here is the example structure of this Api.
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  ]
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![Capture](https://github.com/user-attachments/assets/5b963517-163c-444b-a583-0949a3687e40)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
